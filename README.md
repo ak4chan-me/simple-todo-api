@@ -33,7 +33,7 @@ Untuk menambah data, harus melakukan post data dengan data sbb:
 
 URL:
 ```bash
-http://localhost/simple-tod-api/ambil.php
+http://localhost/simple-tod-api/simpan.php
 ```
 
 Method POST Parameter:
